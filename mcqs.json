@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "subject": "Engineering Mathematics",
+    "chapter": "Complex Numbers",
+    "q": "If z = 3 + 4j, what is |z|?",
+    "o": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "a": 2,
+    "e": "|z| = sqrt(3\u00b2 + 4\u00b2) = 5."
+  },
+  {
+    "id": 2,
+    "subject": "Engineering Mathematics",
+    "chapter": "Matrices",
+    "q": "The determinant of [[a, b], [c, d]] is:",
+    "o": [
+      "ab-cd",
+      "ad-bc",
+      "ac-bd",
+      "a+b+c+d"
+    ],
+    "a": 1,
+    "e": "For a 2\u00d72 matrix, det = ad \u2212 bc."
+  },
+  {
+    "id": 3,
+    "subject": "Engineering Mathematics",
+    "chapter": "Differentiation",
+    "q": "The derivative of sin(x) is:",
+    "o": [
+      "cos(x)",
+      "-cos(x)",
+      "sin(x)",
+      "-sin(x)"
+    ],
+    "a": 0,
+    "e": "d/dx[sin x] = cos x."
+  },
+  {
+    "id": 4,
+    "subject": "Engineering Mathematics",
+    "chapter": "Integration",
+    "q": "\u222b x dx equals:",
+    "o": [
+      "x",
+      "x\u00b2",
+      "x\u00b2/2 + C",
+      "2x + C"
+    ],
+    "a": 2,
+    "e": "Power rule gives x\u00b2/2 + C."
+  },
+  {
+    "id": 5,
+    "subject": "Engineering Mathematics",
+    "chapter": "Trigonometry",
+    "q": "sin\u00b2\u03b8 + cos\u00b2\u03b8 equals:",
+    "o": [
+      "0",
+      "1",
+      "2",
+      "sin\u03b8"
+    ],
+    "a": 1,
+    "e": "This is the fundamental trigonometric identity."
+  },
+  {
+    "id": 6,
+    "subject": "Electrical Circuits",
+    "chapter": "KCL/KVL",
+    "q": "Kirchhoff's Current Law is based on conservation of:",
+    "o": [
+      "Energy",
+      "Charge",
+      "Power factor",
+      "Resistance"
+    ],
+    "a": 1,
+    "e": "KCL states algebraic sum of currents at a node is zero, following charge conservation."
+  },
+  {
+    "id": 7,
+    "subject": "Electrical Circuits",
+    "chapter": "Ohm's Law",
+    "q": "For a resistor, V = ?",
+    "o": [
+      "IR",
+      "I/R",
+      "R/I",
+      "I+R"
+    ],
+    "a": 0,
+    "e": "Ohm's law: V = IR."
+  },
+  {
+    "id": 8,
+    "subject": "Electrical Circuits",
+    "chapter": "AC Fundamentals",
+    "q": "RMS value of a sinusoidal voltage with peak Vm is:",
+    "o": [
+      "Vm",
+      "Vm/2",
+      "Vm/\u221a2",
+      "\u221a2Vm"
+    ],
+    "a": 2,
+    "e": "For a sine wave, Vrms = Vm/\u221a2."
+  },
+  {
+    "id": 9,
+    "subject": "Electrical Circuits",
+    "chapter": "Resonance",
+    "q": "In a series RLC circuit at resonance, impedance is:",
+    "o": [
+      "Maximum",
+      "Minimum and equal to R",
+      "Zero always",
+      "Infinite"
+    ],
+    "a": 1,
+    "e": "At resonance XL = XC, so Z = R."
+  },
+  {
+    "id": 10,
+    "subject": "Electrical Circuits",
+    "chapter": "Power Factor",
+    "q": "Power factor of a purely resistive AC circuit is:",
+    "o": [
+      "0",
+      "0.5",
+      "1",
+      "-1"
+    ],
+    "a": 2,
+    "e": "Voltage and current are in phase, so cos\u03c6 = 1."
+  },
+  {
+    "id": 11,
+    "subject": "Electronic Devices & Circuits",
+    "chapter": "PN Junction Diode",
+    "q": "A silicon diode has approximately what forward voltage drop at normal current?",
+    "o": [
+      "0.1 V",
+      "0.3 V",
+      "0.7 V",
+      "5 V"
+    ],
+    "a": 2,
+    "e": "A commonly used approximate value for silicon is 0.7 V."
+  },
+  {
+    "id": 12,
+    "subject": "Electronic Devices & Circuits",
+    "chapter": "Rectifiers",
+    "q": "A bridge rectifier normally uses how many diodes?",
+    "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "a": 3,
+    "e": "A full-wave bridge rectifier uses four diodes."
+  },
+  {
+    "id": 13,
+    "subject": "Electronic Devices & Circuits",
+    "chapter": "Zener Diode",
+    "q": "A Zener diode is commonly used for:",
+    "o": [
+      "Voltage regulation",
+      "Amplification only",
+      "Oscillation only",
+      "Frequency measurement"
+    ],
+    "a": 0,
+    "e": "In reverse breakdown, a Zener can maintain an approximately constant voltage."
+  },
+  {
+    "id": 14,
+    "subject": "Electronic Devices & Circuits",
+    "chapter": "BJT",
+    "q": "In a BJT, the emitter is generally:",
+    "o": [
+      "Lightly doped",
+      "Heavily doped",
+      "Undoped",
+      "Always intrinsic"
+    ],
+    "a": 1,
+    "e": "The emitter is heavily doped to inject carriers efficiently."
+  },
+  {
+    "id": 15,
+    "subject": "Electronic Devices & Circuits",
+    "chapter": "FET",
+    "q": "A FET is primarily a:",
+    "o": [
+      "Current-controlled device",
+      "Voltage-controlled device",
+      "Temperature-controlled device",
+      "Light-controlled device"
+    ],
+    "a": 1,
+    "e": "The drain current is controlled by gate voltage."
+  },
+  {
+    "id": 16,
+    "subject": "Digital Electronics",
+    "chapter": "Number Systems",
+    "q": "Binary 1010 is decimal:",
+    "o": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "a": 2,
+    "e": "1010\u2082 = 8 + 2 = 10."
+  },
+  {
+    "id": 17,
+    "subject": "Digital Electronics",
+    "chapter": "Logic Gates",
+    "q": "Which gate gives 1 only when all inputs are 1?",
+    "o": [
+      "OR",
+      "AND",
+      "XOR",
+      "NOT"
+    ],
+    "a": 1,
+    "e": "AND output is 1 only when every input is 1."
+  },
+  {
+    "id": 18,
+    "subject": "Digital Electronics",
+    "chapter": "Boolean Algebra",
+    "q": "A + 0 equals:",
+    "o": [
+      "0",
+      "1",
+      "A",
+      "A'"
+    ],
+    "a": 2,
+    "e": "Identity law: A + 0 = A."
+  },
+  {
+    "id": 19,
+    "subject": "Digital Electronics",
+    "chapter": "Flip-Flops",
+    "q": "A flip-flop stores:",
+    "o": [
+      "1 bit",
+      "2 bits",
+      "4 bits",
+      "8 bits"
+    ],
+    "a": 0,
+    "e": "A basic flip-flop is a one-bit storage element."
+  },
+  {
+    "id": 20,
+    "subject": "Digital Electronics",
+    "chapter": "Counters",
+    "q": "A binary counter is primarily used to:",
+    "o": [
+      "Count clock pulses",
+      "Amplify signals",
+      "Regulate voltage",
+      "Measure resistance"
+    ],
+    "a": 0,
+    "e": "Counters change state in response to clock pulses and represent the count."
+  },
+  {
+    "id": 21,
+    "subject": "Communication Systems",
+    "chapter": "AM",
+    "q": "In amplitude modulation, which carrier parameter is varied?",
+    "o": [
+      "Amplitude",
+      "Frequency only",
+      "Phase only",
+      "Speed of light"
+    ],
+    "a": 0,
+    "e": "AM varies the carrier amplitude according to the message signal."
+  },
+  {
+    "id": 22,
+    "subject": "Communication Systems",
+    "chapter": "Sampling",
+    "q": "Nyquist sampling rate is at least:",
+    "o": [
+      "fm",
+      "2fm",
+      "fm/2",
+      "4fm"
+    ],
+    "a": 1,
+    "e": "For a band-limited signal with highest frequency fm, fs \u2265 2fm."
+  },
+  {
+    "id": 23,
+    "subject": "Communication Systems",
+    "chapter": "FM",
+    "q": "In FM, the carrier's ______ is varied.",
+    "o": [
+      "Amplitude",
+      "Frequency",
+      "Power supply",
+      "Wavelength only"
+    ],
+    "a": 1,
+    "e": "FM varies instantaneous carrier frequency."
+  },
+  {
+    "id": 24,
+    "subject": "Communication Systems",
+    "chapter": "PCM",
+    "q": "PCM stands for:",
+    "o": [
+      "Pulse Code Modulation",
+      "Phase Carrier Mixing",
+      "Power Control Mode",
+      "Pulse Carrier Measurement"
+    ],
+    "a": 0,
+    "e": "PCM = Pulse Code Modulation."
+  },
+  {
+    "id": 25,
+    "subject": "Communication Systems",
+    "chapter": "Antennas",
+    "q": "An antenna is used primarily to:",
+    "o": [
+      "Radiate/receive electromagnetic waves",
+      "Store DC charge",
+      "Rectify AC",
+      "Generate binary code"
+    ],
+    "a": 0,
+    "e": "Antennas convert electrical signals to electromagnetic waves and vice versa."
+  },
+  {
+    "id": 26,
+    "subject": "Microprocessors & Microcontrollers",
+    "chapter": "8085 Architecture",
+    "q": "The 8085 is an:",
+    "o": [
+      "8-bit microprocessor",
+      "16-bit microprocessor",
+      "32-bit microprocessor",
+      "4-bit microprocessor"
+    ],
+    "a": 0,
+    "e": "8085 is an 8-bit microprocessor."
+  },
+  {
+    "id": 27,
+    "subject": "Microprocessors & Microcontrollers",
+    "chapter": "8085 Instructions",
+    "q": "Which instruction transfers the accumulator contents to memory/register indirectly via HL?",
+    "o": [
+      "MOV M,A",
+      "ADD B",
+      "CMA",
+      "DCR C"
+    ],
+    "a": 0,
+    "e": "MOV M,A copies A into the memory location addressed by HL."
+  },
+  {
+    "id": 28,
+    "subject": "Microprocessors & Microcontrollers",
+    "chapter": "8255 PPI",
+    "q": "8255 provides how many 8-bit ports?",
+    "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "a": 2,
+    "e": "8255 has Port A, Port B and Port C, each 8 bits."
+  },
+  {
+    "id": 29,
+    "subject": "Microprocessors & Microcontrollers",
+    "chapter": "8085 Interrupts",
+    "q": "Which 8085 interrupt is non-maskable?",
+    "o": [
+      "INTR",
+      "RST 7.5",
+      "TRAP",
+      "RST 5.5"
+    ],
+    "a": 2,
+    "e": "TRAP is the non-maskable, highest-priority hardware interrupt."
+  },
+  {
+    "id": 30,
+    "subject": "Microprocessors & Microcontrollers",
+    "chapter": "USART",
+    "q": "8251 is commonly used as a:",
+    "o": [
+      "Programmable communication interface",
+      "Timer only",
+      "Memory chip",
+      "DAC"
+    ],
+    "a": 0,
+    "e": "8251 is a programmable USART for serial communication."
+  },
+  {
+    "id": 31,
+    "subject": "Electronic Measurements",
+    "chapter": "CRO",
+    "q": "CRO stands for:",
+    "o": [
+      "Cathode Ray Oscilloscope",
+      "Current Reading Output",
+      "Controlled Resistance Oscillator",
+      "Cathode Relay Output"
+    ],
+    "a": 0,
+    "e": "CRO = Cathode Ray Oscilloscope."
+  },
+  {
+    "id": 32,
+    "subject": "Electronic Measurements",
+    "chapter": "Errors",
+    "q": "Accuracy describes closeness to the:",
+    "o": [
+      "Average only",
+      "True value",
+      "Maximum value",
+      "Zero value"
+    ],
+    "a": 1,
+    "e": "Accuracy is closeness of a measurement to the true value."
+  },
+  {
+    "id": 33,
+    "subject": "Electronic Measurements",
+    "chapter": "Bridges",
+    "q": "Wheatstone bridge is commonly used to measure:",
+    "o": [
+      "Unknown resistance",
+      "Frequency only",
+      "Capacitance only",
+      "Temperature only"
+    ],
+    "a": 0,
+    "e": "A balanced Wheatstone bridge can determine an unknown resistance."
+  },
+  {
+    "id": 34,
+    "subject": "Electronic Measurements",
+    "chapter": "Transducers",
+    "q": "A transducer converts a physical quantity into a:",
+    "o": [
+      "Measurable signal",
+      "Database",
+      "Program",
+      "Clock pulse always"
+    ],
+    "a": 0,
+    "e": "A transducer converts a physical quantity into a usable electrical or other signal."
+  },
+  {
+    "id": 35,
+    "subject": "Electronic Measurements",
+    "chapter": "Digital Instruments",
+    "q": "A digital voltmeter displays voltage in:",
+    "o": [
+      "Discrete numerical form",
+      "Only analog pointer form",
+      "Sound form",
+      "Mechanical torque"
+    ],
+    "a": 0,
+    "e": "A DVM uses digital circuitry and displays a numerical reading."
+  },
+  {
+    "id": 36,
+    "subject": "VLSI / Other ECE",
+    "chapter": "Semiconductor Technology",
+    "q": "MOSFET stands for:",
+    "o": [
+      "Metal Oxide Semiconductor Field Effect Transistor",
+      "Micro Output Signal Field Transistor",
+      "Metal Oscillator Silicon Frequency Transistor",
+      "None"
+    ],
+    "a": 0,
+    "e": "MOSFET = Metal Oxide Semiconductor Field Effect Transistor."
+  },
+  {
+    "id": 37,
+    "subject": "VLSI / Other ECE",
+    "chapter": "NMOS",
+    "q": "In an NMOS transistor, the main mobile carriers are:",
+    "o": [
+      "Electrons",
+      "Holes only",
+      "Photons",
+      "Ions only"
+    ],
+    "a": 0,
+    "e": "NMOS conduction is primarily due to electrons."
+  },
+  {
+    "id": 38,
+    "subject": "VLSI / Other ECE",
+    "chapter": "CMOS",
+    "q": "CMOS logic uses:",
+    "o": [
+      "Both NMOS and PMOS",
+      "Only resistors",
+      "Only BJTs",
+      "Only diodes"
+    ],
+    "a": 0,
+    "e": "CMOS combines complementary NMOS and PMOS devices."
+  },
+  {
+    "id": 39,
+    "subject": "VLSI / Other ECE",
+    "chapter": "Layout",
+    "q": "VLSI layout represents:",
+    "o": [
+      "Physical geometry of circuit devices/interconnects",
+      "Only source code",
+      "Only truth tables",
+      "Only equations"
+    ],
+    "a": 0,
+    "e": "Layout specifies the physical shapes used to fabricate the circuit."
+  },
+  {
+    "id": 40,
+    "subject": "VLSI / Other ECE",
+    "chapter": "MOS Design Rules",
+    "q": "Design rules primarily specify:",
+    "o": [
+      "Geometrical constraints for fabrication",
+      "Exam timetable",
+      "Software syntax",
+      "Battery voltage"
+    ],
+    "a": 0,
+    "e": "Design rules constrain widths, spacings and overlaps for manufacturability."
+  }
+]

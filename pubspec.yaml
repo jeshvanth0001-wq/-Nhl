@@ -1,0 +1,16 @@
+name: tg_ecet_2027_prep
+description: TG ECET 2027 ECE preparation app
+publish_to: "none"
+version: 2.0.0+2
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.3.2
+flutter:
+  uses-material-design: true
+  assets:
+    - data/plan.json
+    - data/mcqs.json
+    - data/subjects.json

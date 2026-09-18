@@ -1,0 +1,902 @@
+[
+  {
+    "day": 1,
+    "phase": "Mathematics + Network Theory",
+    "task": "Algebra & equations"
+  },
+  {
+    "day": 2,
+    "phase": "Mathematics + Network Theory",
+    "task": "Trigonometry"
+  },
+  {
+    "day": 3,
+    "phase": "Mathematics + Network Theory",
+    "task": "Complex numbers"
+  },
+  {
+    "day": 4,
+    "phase": "Mathematics + Network Theory",
+    "task": "Matrices & determinants"
+  },
+  {
+    "day": 5,
+    "phase": "Mathematics + Network Theory",
+    "task": "Differentiation"
+  },
+  {
+    "day": 6,
+    "phase": "Mathematics + Network Theory",
+    "task": "Integration"
+  },
+  {
+    "day": 7,
+    "phase": "Mathematics + Network Theory",
+    "task": "Weekly revision + timed test: Mathematics + Network Theory"
+  },
+  {
+    "day": 8,
+    "phase": "Mathematics + Network Theory",
+    "task": "Laplace basics"
+  },
+  {
+    "day": 9,
+    "phase": "Mathematics + Network Theory",
+    "task": "DC circuit laws"
+  },
+  {
+    "day": 10,
+    "phase": "Mathematics + Network Theory",
+    "task": "KCL/KVL"
+  },
+  {
+    "day": 11,
+    "phase": "Mathematics + Network Theory",
+    "task": "Network theorems"
+  },
+  {
+    "day": 12,
+    "phase": "Mathematics + Network Theory",
+    "task": "Mesh analysis"
+  },
+  {
+    "day": 13,
+    "phase": "Mathematics + Network Theory",
+    "task": "Nodal analysis"
+  },
+  {
+    "day": 14,
+    "phase": "Mathematics + Network Theory",
+    "task": "Weekly revision + timed test: Mathematics + Network Theory"
+  },
+  {
+    "day": 15,
+    "phase": "Mathematics + Network Theory",
+    "task": "Phasors & impedance"
+  },
+  {
+    "day": 16,
+    "phase": "Mathematics + Network Theory",
+    "task": "Resonance"
+  },
+  {
+    "day": 17,
+    "phase": "Mathematics + Network Theory",
+    "task": "Power factor"
+  },
+  {
+    "day": 18,
+    "phase": "Mathematics + Network Theory",
+    "task": "Transient response"
+  },
+  {
+    "day": 19,
+    "phase": "Mathematics + Network Theory",
+    "task": "Algebra & equations"
+  },
+  {
+    "day": 20,
+    "phase": "Mathematics + Network Theory",
+    "task": "Trigonometry"
+  },
+  {
+    "day": 21,
+    "phase": "Mathematics + Network Theory",
+    "task": "Weekly revision + timed test: Mathematics + Network Theory"
+  },
+  {
+    "day": 22,
+    "phase": "Mathematics + Network Theory",
+    "task": "Matrices & determinants"
+  },
+  {
+    "day": 23,
+    "phase": "Mathematics + Network Theory",
+    "task": "Differentiation"
+  },
+  {
+    "day": 24,
+    "phase": "Mathematics + Network Theory",
+    "task": "Integration"
+  },
+  {
+    "day": 25,
+    "phase": "Mathematics + Network Theory",
+    "task": "Differential equations"
+  },
+  {
+    "day": 26,
+    "phase": "Mathematics + Network Theory",
+    "task": "Laplace basics"
+  },
+  {
+    "day": 27,
+    "phase": "Mathematics + Network Theory",
+    "task": "DC circuit laws"
+  },
+  {
+    "day": 28,
+    "phase": "Mathematics + Network Theory",
+    "task": "Weekly revision + timed test: Mathematics + Network Theory"
+  },
+  {
+    "day": 29,
+    "phase": "Mathematics + Network Theory",
+    "task": "Network theorems"
+  },
+  {
+    "day": 30,
+    "phase": "Mathematics + Network Theory",
+    "task": "Mesh analysis"
+  },
+  {
+    "day": 31,
+    "phase": "Electronic Devices & Circuits",
+    "task": "MOSFET"
+  },
+  {
+    "day": 32,
+    "phase": "Electronic Devices & Circuits",
+    "task": "FET biasing"
+  },
+  {
+    "day": 33,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Amplifier basics"
+  },
+  {
+    "day": 34,
+    "phase": "Electronic Devices & Circuits",
+    "task": "CE/CB/CC amplifiers"
+  },
+  {
+    "day": 35,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Weekly revision + timed test: Electronic Devices & Circuits"
+  },
+  {
+    "day": 36,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Feedback amplifiers"
+  },
+  {
+    "day": 37,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Oscillators"
+  },
+  {
+    "day": 38,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Power amplifiers"
+  },
+  {
+    "day": 39,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Special diodes"
+  },
+  {
+    "day": 40,
+    "phase": "Electronic Devices & Circuits",
+    "task": "EDC revision"
+  },
+  {
+    "day": 41,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Semiconductor basics"
+  },
+  {
+    "day": 42,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Weekly revision + timed test: Electronic Devices & Circuits"
+  },
+  {
+    "day": 43,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Rectifiers"
+  },
+  {
+    "day": 44,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Zener diode"
+  },
+  {
+    "day": 45,
+    "phase": "Electronic Devices & Circuits",
+    "task": "BJT construction & operation"
+  },
+  {
+    "day": 46,
+    "phase": "Electronic Devices & Circuits",
+    "task": "BJT configurations"
+  },
+  {
+    "day": 47,
+    "phase": "Electronic Devices & Circuits",
+    "task": "BJT biasing"
+  },
+  {
+    "day": 48,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Small-signal BJT"
+  },
+  {
+    "day": 49,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Weekly revision + timed test: Electronic Devices & Circuits"
+  },
+  {
+    "day": 50,
+    "phase": "Electronic Devices & Circuits",
+    "task": "JFET"
+  },
+  {
+    "day": 51,
+    "phase": "Electronic Devices & Circuits",
+    "task": "MOSFET"
+  },
+  {
+    "day": 52,
+    "phase": "Electronic Devices & Circuits",
+    "task": "FET biasing"
+  },
+  {
+    "day": 53,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Amplifier basics"
+  },
+  {
+    "day": 54,
+    "phase": "Electronic Devices & Circuits",
+    "task": "CE/CB/CC amplifiers"
+  },
+  {
+    "day": 55,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Frequency response"
+  },
+  {
+    "day": 56,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Weekly revision + timed test: Electronic Devices & Circuits"
+  },
+  {
+    "day": 57,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Oscillators"
+  },
+  {
+    "day": 58,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Power amplifiers"
+  },
+  {
+    "day": 59,
+    "phase": "Electronic Devices & Circuits",
+    "task": "Special diodes"
+  },
+  {
+    "day": 60,
+    "phase": "Electronic Devices & Circuits",
+    "task": "EDC revision"
+  },
+  {
+    "day": 61,
+    "phase": "Digital Electronics",
+    "task": "Adders & subtractors"
+  },
+  {
+    "day": 62,
+    "phase": "Digital Electronics",
+    "task": "MUX/DEMUX"
+  },
+  {
+    "day": 63,
+    "phase": "Digital Electronics",
+    "task": "Weekly revision + timed test: Digital Electronics"
+  },
+  {
+    "day": 64,
+    "phase": "Digital Electronics",
+    "task": "Flip-flops"
+  },
+  {
+    "day": 65,
+    "phase": "Digital Electronics",
+    "task": "Registers"
+  },
+  {
+    "day": 66,
+    "phase": "Digital Electronics",
+    "task": "Counters"
+  },
+  {
+    "day": 67,
+    "phase": "Digital Electronics",
+    "task": "Synchronous/sequential logic"
+  },
+  {
+    "day": 68,
+    "phase": "Digital Electronics",
+    "task": "Memory basics"
+  },
+  {
+    "day": 69,
+    "phase": "Digital Electronics",
+    "task": "ADC/DAC basics"
+  },
+  {
+    "day": 70,
+    "phase": "Digital Electronics",
+    "task": "Weekly revision + timed test: Digital Electronics"
+  },
+  {
+    "day": 71,
+    "phase": "Digital Electronics",
+    "task": "Digital IC concepts"
+  },
+  {
+    "day": 72,
+    "phase": "Digital Electronics",
+    "task": "Timing diagrams"
+  },
+  {
+    "day": 73,
+    "phase": "Digital Electronics",
+    "task": "Number systems"
+  },
+  {
+    "day": 74,
+    "phase": "Digital Electronics",
+    "task": "Binary arithmetic"
+  },
+  {
+    "day": 75,
+    "phase": "Digital Electronics",
+    "task": "Boolean algebra"
+  },
+  {
+    "day": 76,
+    "phase": "Digital Electronics",
+    "task": "Logic gates"
+  },
+  {
+    "day": 77,
+    "phase": "Digital Electronics",
+    "task": "Weekly revision + timed test: Digital Electronics"
+  },
+  {
+    "day": 78,
+    "phase": "Digital Electronics",
+    "task": "Combinational circuits"
+  },
+  {
+    "day": 79,
+    "phase": "Digital Electronics",
+    "task": "Adders & subtractors"
+  },
+  {
+    "day": 80,
+    "phase": "Digital Electronics",
+    "task": "MUX/DEMUX"
+  },
+  {
+    "day": 81,
+    "phase": "Digital Electronics",
+    "task": "Encoders/decoders"
+  },
+  {
+    "day": 82,
+    "phase": "Digital Electronics",
+    "task": "Flip-flops"
+  },
+  {
+    "day": 83,
+    "phase": "Digital Electronics",
+    "task": "Registers"
+  },
+  {
+    "day": 84,
+    "phase": "Digital Electronics",
+    "task": "Weekly revision + timed test: Digital Electronics"
+  },
+  {
+    "day": 85,
+    "phase": "Digital Electronics",
+    "task": "Synchronous/sequential logic"
+  },
+  {
+    "day": 86,
+    "phase": "Communication Systems",
+    "task": "Wave propagation"
+  },
+  {
+    "day": 87,
+    "phase": "Communication Systems",
+    "task": "Microwave communication"
+  },
+  {
+    "day": 88,
+    "phase": "Communication Systems",
+    "task": "Optical communication"
+  },
+  {
+    "day": 89,
+    "phase": "Communication Systems",
+    "task": "Satellite basics"
+  },
+  {
+    "day": 90,
+    "phase": "Communication Systems",
+    "task": "Mobile/wireless basics"
+  },
+  {
+    "day": 91,
+    "phase": "Communication Systems",
+    "task": "Weekly revision + timed test: Communication Systems"
+  },
+  {
+    "day": 92,
+    "phase": "Communication Systems",
+    "task": "Noise"
+  },
+  {
+    "day": 93,
+    "phase": "Communication Systems",
+    "task": "AM"
+  },
+  {
+    "day": 94,
+    "phase": "Communication Systems",
+    "task": "FM"
+  },
+  {
+    "day": 95,
+    "phase": "Communication Systems",
+    "task": "PM"
+  },
+  {
+    "day": 96,
+    "phase": "Communication Systems",
+    "task": "Modulators/demodulators"
+  },
+  {
+    "day": 97,
+    "phase": "Communication Systems",
+    "task": "Receivers"
+  },
+  {
+    "day": 98,
+    "phase": "Communication Systems",
+    "task": "Weekly revision + timed test: Communication Systems"
+  },
+  {
+    "day": 99,
+    "phase": "Communication Systems",
+    "task": "PCM"
+  },
+  {
+    "day": 100,
+    "phase": "Communication Systems",
+    "task": "Digital modulation"
+  },
+  {
+    "day": 101,
+    "phase": "Communication Systems",
+    "task": "Multiplexing"
+  },
+  {
+    "day": 102,
+    "phase": "Communication Systems",
+    "task": "Transmission media"
+  },
+  {
+    "day": 103,
+    "phase": "Communication Systems",
+    "task": "Antennas"
+  },
+  {
+    "day": 104,
+    "phase": "Communication Systems",
+    "task": "Wave propagation"
+  },
+  {
+    "day": 105,
+    "phase": "Communication Systems",
+    "task": "Weekly revision + timed test: Communication Systems"
+  },
+  {
+    "day": 106,
+    "phase": "Communication Systems",
+    "task": "Optical communication"
+  },
+  {
+    "day": 107,
+    "phase": "Communication Systems",
+    "task": "Satellite basics"
+  },
+  {
+    "day": 108,
+    "phase": "Communication Systems",
+    "task": "Mobile/wireless basics"
+  },
+  {
+    "day": 109,
+    "phase": "Communication Systems",
+    "task": "Communication system blocks"
+  },
+  {
+    "day": 110,
+    "phase": "Communication Systems",
+    "task": "Noise"
+  },
+  {
+    "day": 111,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "8051 architecture"
+  },
+  {
+    "day": 112,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Weekly revision + timed test: Microprocessors & Microcontrollers"
+  },
+  {
+    "day": 113,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Timers/counters"
+  },
+  {
+    "day": 114,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "8051 interrupts"
+  },
+  {
+    "day": 115,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "8085 architecture"
+  },
+  {
+    "day": 116,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "8085 pins & buses"
+  },
+  {
+    "day": 117,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Instruction set"
+  },
+  {
+    "day": 118,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Addressing modes"
+  },
+  {
+    "day": 119,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Weekly revision + timed test: Microprocessors & Microcontrollers"
+  },
+  {
+    "day": 120,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Arithmetic/logical ALP"
+  },
+  {
+    "day": 121,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Branching & loops"
+  },
+  {
+    "day": 122,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Stack/subroutines"
+  },
+  {
+    "day": 123,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Interrupts"
+  },
+  {
+    "day": 124,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Memory interfacing"
+  },
+  {
+    "day": 125,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "8255 PPI"
+  },
+  {
+    "day": 126,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Weekly revision + timed test: Microprocessors & Microcontrollers"
+  },
+  {
+    "day": 127,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "DMA basics"
+  },
+  {
+    "day": 128,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Serial/parallel interfacing"
+  },
+  {
+    "day": 129,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Key debounce & display interfacing"
+  },
+  {
+    "day": 130,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "8051 architecture"
+  },
+  {
+    "day": 131,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "8051 instructions"
+  },
+  {
+    "day": 132,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Timers/counters"
+  },
+  {
+    "day": 133,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "Weekly revision + timed test: Microprocessors & Microcontrollers"
+  },
+  {
+    "day": 134,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "8085 architecture"
+  },
+  {
+    "day": 135,
+    "phase": "Microprocessors & Microcontrollers",
+    "task": "8085 pins & buses"
+  },
+  {
+    "day": 136,
+    "phase": "Measurements + VLSI",
+    "task": "Measurement errors"
+  },
+  {
+    "day": 137,
+    "phase": "Measurements + VLSI",
+    "task": "Accuracy & precision"
+  },
+  {
+    "day": 138,
+    "phase": "Measurements + VLSI",
+    "task": "Bridges"
+  },
+  {
+    "day": 139,
+    "phase": "Measurements + VLSI",
+    "task": "Electronic meters"
+  },
+  {
+    "day": 140,
+    "phase": "Measurements + VLSI",
+    "task": "Weekly revision + timed test: Measurements + VLSI"
+  },
+  {
+    "day": 141,
+    "phase": "Measurements + VLSI",
+    "task": "Digital instruments"
+  },
+  {
+    "day": 142,
+    "phase": "Measurements + VLSI",
+    "task": "Transducers"
+  },
+  {
+    "day": 143,
+    "phase": "Measurements + VLSI",
+    "task": "Signal generators"
+  },
+  {
+    "day": 144,
+    "phase": "Measurements + VLSI",
+    "task": "Frequency/phase measurement"
+  },
+  {
+    "day": 145,
+    "phase": "Measurements + VLSI",
+    "task": "Semiconductor technology"
+  },
+  {
+    "day": 146,
+    "phase": "Measurements + VLSI",
+    "task": "MOS design rules"
+  },
+  {
+    "day": 147,
+    "phase": "Measurements + VLSI",
+    "task": "Weekly revision + timed test: Measurements + VLSI"
+  },
+  {
+    "day": 148,
+    "phase": "Measurements + VLSI",
+    "task": "Single metal/polysilicon"
+  },
+  {
+    "day": 149,
+    "phase": "Measurements + VLSI",
+    "task": "Double metal process"
+  },
+  {
+    "day": 150,
+    "phase": "Measurements + VLSI",
+    "task": "VLSI layout basics"
+  },
+  {
+    "day": 151,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 152,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 153,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 154,
+    "phase": "Complete Revision",
+    "task": "Weekly revision + timed test: Complete Revision"
+  },
+  {
+    "day": 155,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 156,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 157,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 158,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 159,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 160,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 161,
+    "phase": "Complete Revision",
+    "task": "Weekly revision + timed test: Complete Revision"
+  },
+  {
+    "day": 162,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 163,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 164,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 165,
+    "phase": "Complete Revision",
+    "task": "Revision + PYQs + error correction: Complete Revision"
+  },
+  {
+    "day": 166,
+    "phase": "Final Revision + Mocks",
+    "task": "Full-length mock test + analysis"
+  },
+  {
+    "day": 167,
+    "phase": "Final Revision + Mocks",
+    "task": "Final revision: formulas, weak areas & error notebook"
+  },
+  {
+    "day": 168,
+    "phase": "Final Revision + Mocks",
+    "task": "Full-length mock test + analysis"
+  },
+  {
+    "day": 169,
+    "phase": "Final Revision + Mocks",
+    "task": "Final revision: formulas, weak areas & error notebook"
+  },
+  {
+    "day": 170,
+    "phase": "Final Revision + Mocks",
+    "task": "Full-length mock test + analysis"
+  },
+  {
+    "day": 171,
+    "phase": "Final Revision + Mocks",
+    "task": "Final revision: formulas, weak areas & error notebook"
+  },
+  {
+    "day": 172,
+    "phase": "Final Revision + Mocks",
+    "task": "Full-length mock test + analysis"
+  },
+  {
+    "day": 173,
+    "phase": "Final Revision + Mocks",
+    "task": "Final revision: formulas, weak areas & error notebook"
+  },
+  {
+    "day": 174,
+    "phase": "Final Revision + Mocks",
+    "task": "Full-length mock test + analysis"
+  },
+  {
+    "day": 175,
+    "phase": "Final Revision + Mocks",
+    "task": "Final revision: formulas, weak areas & error notebook"
+  },
+  {
+    "day": 176,
+    "phase": "Final Revision + Mocks",
+    "task": "Full-length mock test + analysis"
+  },
+  {
+    "day": 177,
+    "phase": "Final Revision + Mocks",
+    "task": "Final revision: formulas, weak areas & error notebook"
+  },
+  {
+    "day": 178,
+    "phase": "Final Revision + Mocks",
+    "task": "Full-length mock test + analysis"
+  },
+  {
+    "day": 179,
+    "phase": "Final Revision + Mocks",
+    "task": "Final revision: formulas, weak areas & error notebook"
+  },
+  {
+    "day": 180,
+    "phase": "Final Revision + Mocks",
+    "task": "Full-length mock test + analysis"
+  }
+]
